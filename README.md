@@ -44,5 +44,10 @@ public class MainActivity extends AppCompatActivity{
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-### output
+### Output
 ![Screenshot (3)](https://user-images.githubusercontent.com/75234946/165219935-18d74d58-5d98-480d-8d15-5eb78e13a39c.png)
+
+###Result
+```
+Thus a Simple Android Application Welcome should be in Center Alignment, Font Color: blue,using Android Studio is developed and executed successfully.
+```
